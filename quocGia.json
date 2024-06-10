@@ -1,0 +1,334 @@
+[
+    {
+        "flags": {
+            "png": "https://flagcdn.com/w320/ao.png",
+            "svg": "https://flagcdn.com/ao.svg",
+            "alt": "The flag of Angola features two equal horizontal bands of red and black, with a yellow emblem at its centre. This emblem consists of a five-pointed star within the hoist-side facing half of a cogwheel that is crossed on its lower end by a machete."
+        },
+        "name": {
+            "common": "Angola",
+            "official": "Republic of Angola",
+            "nativeName": {
+                "por": {
+                    "official": "República de Angola",
+                    "common": "Angola"
+                }
+            }
+        },
+        "capital": [
+            "Luanda"
+        ],
+        "languages": {
+            "por": "Portuguese"
+        },
+        "population": 32866268,
+        "continents": [
+            "Africa"
+        ]
+    },
+    {
+        "flags": {
+            "png": "https://flagcdn.com/w320/ki.png",
+            "svg": "https://flagcdn.com/ki.svg",
+            "alt": "The flag of Kiribati is divided into two halves. While the upper half has a red field, at the center of which is a yellow frigate bird flying over the top half of a rising yellow sun with seventeen visible rays, the lower half is composed of six horizontal wavy bands of white alternating with blue to depict the ocean."
+        },
+        "name": {
+            "common": "Kiribati",
+            "official": "Independent and Sovereign Republic of Kiribati",
+            "nativeName": {
+                "eng": {
+                    "official": "Independent and Sovereign Republic of Kiribati",
+                    "common": "Kiribati"
+                },
+                "gil": {
+                    "official": "Ribaberiki Kiribati",
+                    "common": "Kiribati"
+                }
+            }
+        },
+        "capital": [
+            "South Tarawa"
+        ],
+        "languages": {
+            "eng": "English",
+            "gil": "Gilbertese"
+        },
+        "population": 119446,
+        "continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "flags": {
+            "png": "https://flagcdn.com/w320/km.png",
+            "svg": "https://flagcdn.com/km.svg",
+            "alt": "The flag of Comoros is composed of four equal horizontal bands of yellow, white, red and blue, with a green isosceles triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end, spans about two-fifth the width of the field and bears a fly-side facing white crescent and four five-pointed white stars arranged in a vertical line along the opening of the crescent."
+        },
+        "name": {
+            "common": "Comoros",
+            "official": "Union of the Comoros",
+            "nativeName": {
+                "ara": {
+                    "official": "الاتحاد القمري",
+                    "common": "القمر‎"
+                },
+                "fra": {
+                    "official": "Union des Comores",
+                    "common": "Comores"
+                },
+                "zdj": {
+                    "official": "Udzima wa Komori",
+                    "common": "Komori"
+                }
+            }
+        },
+        "capital": [
+            "Moroni"
+        ],
+        "languages": {
+            "ara": "Arabic",
+            "fra": "French",
+            "zdj": "Comorian"
+        },
+        "population": 869595,
+        "continents": [
+            "Africa"
+        ]
+    },
+    {
+        "flags": {
+            "png": "https://flagcdn.com/w320/il.png",
+            "svg": "https://flagcdn.com/il.svg",
+            "alt": "The flag of Israel has a white field with a blue hexagram — the Magen David — centered between two equal horizontal blue bands situated near the top and bottom edges of the field."
+        },
+        "name": {
+            "common": "Israel",
+            "official": "State of Israel",
+            "nativeName": {
+                "ara": {
+                    "official": "دولة إسرائيل",
+                    "common": "إسرائيل"
+                },
+                "heb": {
+                    "official": "מדינת ישראל",
+                    "common": "ישראל"
+                }
+            }
+        },
+        "capital": [
+            "Jerusalem"
+        ],
+        "languages": {
+            "ara": "Arabic",
+            "heb": "Hebrew"
+        },
+        "population": 9216900,
+        "continents": [
+            "Asia"
+        ]
+    },
+    {
+        "flags": {
+            "png": "https://flagcdn.com/w320/sn.png",
+            "svg": "https://flagcdn.com/sn.svg",
+            "alt": "The flag of Senegal is composed of three equal vertical bands of green, golden-yellow and red, with a five-pointed green star centered in the golden-yellow band."
+        },
+        "name": {
+            "common": "Senegal",
+            "official": "Republic of Senegal",
+            "nativeName": {
+                "fra": {
+                    "official": "République du Sénégal",
+                    "common": "Sénégal"
+                }
+            }
+        },
+        "capital": [
+            "Dakar"
+        ],
+        "languages": {
+            "fra": "French"
+        },
+        "population": 16743930,
+        "continents": [
+            "Africa"
+        ]
+    },
+    {
+        "flags": {
+            "png": "https://flagcdn.com/w320/ss.png",
+            "svg": "https://flagcdn.com/ss.svg",
+            "alt": "The flag of South Sudan is composed of three equal horizontal bands of black, red with white top and bottom edges, and green. A blue equilateral triangle which spans about two-fifth the width of the field is superimposed on the hoist side with its base on the hoist end of the field. At the center of this triangle is a five-pointed yellow star."
+        },
+        "name": {
+            "common": "South Sudan",
+            "official": "Republic of South Sudan",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of South Sudan",
+                    "common": "South Sudan"
+                }
+            }
+        },
+        "capital": [
+            "Juba"
+        ],
+        "languages": {
+            "eng": "English"
+        },
+        "population": 11193729,
+        "continents": [
+            "Africa"
+        ]
+    },
+    {
+        "flags": {
+            "png": "https://flagcdn.com/w320/nz.png",
+            "svg": "https://flagcdn.com/nz.svg",
+            "alt": "The flag of New Zealand has a dark blue field with the flag of the United Kingdom — the Union Jack — in the canton and a representation of the Southern Cross constellation, made up of four five-pointed white-edged red stars, on the fly side of the field."
+        },
+        "name": {
+            "common": "New Zealand",
+            "official": "New Zealand",
+            "nativeName": {
+                "eng": {
+                    "official": "New Zealand",
+                    "common": "New Zealand"
+                },
+                "mri": {
+                    "official": "Aotearoa",
+                    "common": "Aotearoa"
+                },
+                "nzs": {
+                    "official": "New Zealand",
+                    "common": "New Zealand"
+                }
+            }
+        },
+        "capital": [
+            "Wellington"
+        ],
+        "languages": {
+            "eng": "English",
+            "mri": "Māori",
+            "nzs": "New Zealand Sign Language"
+        },
+        "population": 5084300,
+        "continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "flags": {
+            "png": "https://flagcdn.com/w320/lr.png",
+            "svg": "https://flagcdn.com/lr.svg",
+            "alt": "The flag of Liberia is composed of eleven equal horizontal bands of red alternating with white. A blue square bearing a five-pointed white star is superimposed in the canton."
+        },
+        "name": {
+            "common": "Liberia",
+            "official": "Republic of Liberia",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Liberia",
+                    "common": "Liberia"
+                }
+            }
+        },
+        "capital": [
+            "Monrovia"
+        ],
+        "languages": {
+            "eng": "English"
+        },
+        "population": 5057677,
+        "continents": [
+            "Africa"
+        ]
+    },
+    {
+        "flags": {
+            "png": "https://flagcdn.com/w320/sb.png",
+            "svg": "https://flagcdn.com/sb.svg",
+            "alt": "The flag of Solomon Islands features a thin yellow diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a blue and green triangle respectively. Five white five-pointed stars arranged in an X shape are situated on the hoist side of the upper blue triangle."
+        },
+        "name": {
+            "common": "Solomon Islands",
+            "official": "Solomon Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "Solomon Islands",
+                    "common": "Solomon Islands"
+                }
+            }
+        },
+        "capital": [
+            "Honiara"
+        ],
+        "languages": {
+            "eng": "English"
+        },
+        "population": 686878,
+        "continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "flags": {
+            "png": "https://flagcdn.com/w320/si.png",
+            "svg": "https://flagcdn.com/si.svg",
+            "alt": "The flag of Slovenia is composed of three equal horizontal bands of white, blue and red. The national coat of arms is situated in the upper hoist side of the field centered on the boundary between the white and blue bands."
+        },
+        "name": {
+            "common": "Slovenia",
+            "official": "Republic of Slovenia",
+            "nativeName": {
+                "slv": {
+                    "official": "Republika Slovenija",
+                    "common": "Slovenija"
+                }
+            }
+        },
+        "capital": [
+            "Ljubljana"
+        ],
+        "languages": {
+            "slv": "Slovene"
+        },
+        "population": 2100126,
+        "continents": [
+            "Europe"
+        ]
+    },
+    {
+        "flags": {
+            "png": "https://flagcdn.com/w320/uz.png",
+            "svg": "https://flagcdn.com/uz.svg",
+            "alt": "The flag of Uzbekistan is composed of three equal horizontal bands of turquoise, white with red top and bottom edges, and green. On the hoist side of the turquoise band is a fly-side facing white crescent and twelve five-pointed white stars arranged just outside the crescent opening in three rows comprising three, four and five stars."
+        },
+        "name": {
+            "common": "Uzbekistan",
+            "official": "Republic of Uzbekistan",
+            "nativeName": {
+                "rus": {
+                    "official": "Республика Узбекистан",
+                    "common": "Узбекистан"
+                },
+                "uzb": {
+                    "official": "O'zbekiston Respublikasi",
+                    "common": "O‘zbekiston"
+                }
+            }
+        },
+        "capital": [
+            "Tashkent"
+        ],
+        "languages": {
+            "rus": "Russian",
+            "uzb": "Uzbek"
+        },
+        "population": 34232050,
+        "continents": [
+            "Asia"
+        ]
+    }
+]
